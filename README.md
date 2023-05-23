@@ -1,6 +1,8 @@
 # NWSL Fantasy Soccer League App (Under Development)
 
-Welcome to our NWSL Fantasy Soccer League App project! This app is being built using Java in Android Studio. Our goal is to create a platform where users can form their own fantasy soccer teams from the NWSL (National Women's Soccer League).
+Welcome to our NWSL Fantasy Soccer League App project! This app is being built using Java in Android Studio. 
+
+Our goal is to create a platform where users can form their own fantasy soccer teams from the NWSL (National Women's Soccer League).
 
 ## Planned Features
 
@@ -12,3 +14,5 @@ Here's what we're planning for our app:
 - **Rankings and Leaderboard:** We want to give users the ability to see how their team stacks up against others in the league.
 
 These features are currently under development. We'll update this README as progress is made and features are completed.
+
+*Created by students for practice purposes - no relation to the NWSL
